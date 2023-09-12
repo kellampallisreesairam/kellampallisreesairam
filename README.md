@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @kellampallisreesairam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ <h1 align="center">🌡️ Temperature Converter Application</h1>
 
-<!---
-kellampallisreesairam/kellampallisreesairam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About
+A temperature converter helps convert the temperature between Fahrenheit and Celsius scale. Temperature is measured using a thermometer. While Kelvin (K) is the SI unit of 
+temperature, people generally use Centigrade or Celsius (°C) and Fahrenheit (°F) to measure temperature.
+
+## Features
+In this application, you can convert the temperature from Celsius to Fahrenheit and vice-versa.
+
+## Made with
+|HTML|CSS|Javascript|
+|---|---|---|
+
+## Link
+https://thenewc0der-24.github.io/Temperature__Converter-Application/
+
+---
+<h3 align="center">Hope this application helpful to you !!</h3>
